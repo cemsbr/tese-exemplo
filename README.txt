@@ -22,7 +22,7 @@ Para seu trabalho pode usar uma das seguintes versões:
 - Referências em formato PLAINNAT-IME: diretório 'tese-exemplo-plainnat-ime'
 
 ================================================================================
-Arquivo principal: 
+Arquivo principal:
   -'tese-exemplo.tex'
 
 Arquivos dos capítulos e apêndice:
@@ -31,12 +31,12 @@ Arquivos dos capítulos e apêndice:
   - 'cap-conclusoes.tex'
   - 'ape-conjuntos.tex'
 
-Arquivo de bibliografia: 
+Arquivo de bibliografia:
   -'bibliografia.bib'
 
-Diretório de figuras: 
+Diretório de figuras:
   - './figuras/'
-  
+
 Compilação do documento:
   - make pdf : usando pdflatex
   - make ps  : usando latex
